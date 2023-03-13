@@ -1,0 +1,163 @@
+body {
+  background-image: linear-gradient(black, black);
+  height: 130vh;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Bebas Neue", cursive;
+  font-family: "Genos", sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+}
+.main {
+  background-color: white;
+  height: auto;
+  width: 650px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 67%;
+  border: 5px solid white;
+}
+.left {
+  background-color: #020202;
+  width: 200px;
+  height: 100%;
+  float: left;
+}
+.right {
+  width: 450px;
+  float: left;
+  margin-bottom: 10px;
+}
+.profile-img {
+  height: 90%;
+  width: 80%;
+  background-color: #ddd;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  margin-left: 60px;
+  border: 10px solid #05183c;
+  box-shadow: 6px 7px 9px 5px #020202;
+}
+.profile-img img {
+  width: 100%;
+  border-radius: 100%;
+}
+.box-1 {
+  position: relative;
+}
+.heading {
+  background-color: #05183c;
+  padding: 10px;
+  color: #ffffff;
+  text-align: left;
+  padding-left: 20px;
+  margin-right: -15px;
+  border-radius: 5px;
+}
+.p1 {
+  padding: 9px 10px;
+  font-size: 11px;
+  color: white;
+}
+.icons1 {
+  font-size: 16px !important;
+  padding-right: 10px !important;
+  vertical-align: sub;
+}
+.skill-container {
+  width: 90%;
+  background-color: #4d4d4d;
+  margin: 0px 10px;
+}
+.skill {
+  text-align: right;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  color: white;
+}
+.html {
+  width: 60%;
+  background-color: white;
+}
+.css {
+  width: 50%;
+  background-color: white;
+}
+.js {
+  width: 10%;
+  background-color: white;
+}
+.jquery {
+  width: 10%;
+  background-color: white;
+}
+.web {
+  width: 40%;
+  background-color: white;
+}
+.seg {
+  width: 10%;
+  background-color: white;
+}
+.frontend {
+  width: 10%;
+  background-color: white;
+}
+.backend {
+  width: 10%;
+  background-color: white;
+}
+.icons2 {
+  padding: 18px 10px;
+}
+.name-div {
+  padding: 86px 0px 60px 55px;
+  text-align: center;
+  letter-spacing: 5px;
+}
+.name-div h1 {
+  margin-bottom: -20px;
+}
+.box-2 {
+  padding: 0px 50px;
+  margin-top: 30px;
+}
+.p2 {
+  font-size: 10px;
+  font-weight: 300;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+  line-height: 18px;
+  margin-top: 5px;
+  text-align: justify;
+}
+h1 {
+  font-size: 40px;
+}
+h2 {
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+.icons3 {
+  vertical-align: bottom;
+  font-size: 21px !important;
+  color: black;
+}
+.p3 {
+  font-size: 13px;
+  word-spacing: 1px;
+  letter-spacing: 0px;
+  margin-top: 10px;
+}
+.p3 span {
+  color: black;
+  padding-left: 20px;
+}
+.icons4 {
+  font-size: 21px !important;
+}
